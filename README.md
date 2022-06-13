@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SCSNebula
-- 👀 I’m interested in ... Blockchain
-- 🌱 I’m currently learning ... Solidity and Java
+- 👀 I’m interested in ... Blockchain and Data Analysis
+- 🌱 I’m currently learning ... Solidity, Javascript, SQL, and Python
 - 💞️ I’m looking to collaborate on ... Smart Contract Learning
 - 📫 How to reach me ...
 
